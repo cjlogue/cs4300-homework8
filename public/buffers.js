@@ -23,7 +23,6 @@ const initializePositionBuffer = (gl) => {
 }
 
 
-
 const initializeColorBuffer = (gl) => {
     const colors = [
         1.0,  1.0,  1.0,  1.0,    // vertex 0 is white
